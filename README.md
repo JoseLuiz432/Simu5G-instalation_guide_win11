@@ -66,7 +66,7 @@ $ make makefiles
 $ make
 ```
 
-2. INET:
+2. Simu5G:
 ```
 $ cd Simu5G
 $ . setenv
