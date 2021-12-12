@@ -48,6 +48,7 @@ $ git clone https://github.com/Unipisa/Simu5G.git
 ### Experimento
 Para iniciar o experimento você deve "buildar" os pacotes da seguinte forma:
 
+
 1. OMNet:
 obs.: Podem acontecer alguns erros por falta de pacotes como o gcc e g++, então observe o erro e instale o pacote necessário.
 ```
