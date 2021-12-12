@@ -86,4 +86,4 @@ $ ./run
 ```
 
 ### Apresentação
-O vídeo apresentação de uma simulação no Simu5G -> [Video](https://www.loom.com/share/ce7d4d4dad014ed9925aa5a9822fe26c)
+O vídeo apresentação de uma simulação no Simu5G -> [Video]()
