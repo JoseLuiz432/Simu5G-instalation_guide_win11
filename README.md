@@ -18,7 +18,7 @@ Table of contents
 <!--te-->
 
 
-## EP01 Descrição
+## EP03 Descrição
 Neste EP iremos simular dispositivos se comunicando numa rede 5G. O simulador utilizado foi o [simu5G](http://www.simu5g.org/index.html). Dessa forma, será feito um tutorial de como instalar o simulador e utilizá-lo no windows 11 utilizando o wsl-ubuntu. Dividindo o Ep da seguinte forma:
 
 1. Tutorial de instalação;
