@@ -27,6 +27,7 @@ Neste EP iremos simular dispositivos se comunicando numa rede 5G. O simulador ut
 
 ### Pré-requisitos
 Antes de iniciar você deve instalar no wsl-ubuntu os seguintes pacotes:
+
 [OMNeT++ 6.0 Preview 11](https://github.com/omnetpp/omnetpp/releases/tag/omnetpp-6.0pre11)
 
 ```
@@ -47,7 +48,6 @@ $ git clone https://github.com/Unipisa/Simu5G.git
 
 ### Experimento
 Para iniciar o experimento você deve "buildar" os pacotes da seguinte forma:
-
 
 1. OMNet:
 obs.: Podem acontecer alguns erros por falta de pacotes como o gcc e g++, então observe o erro e instale o pacote necessário.
